@@ -1,0 +1,157 @@
+#SampleID	 BarcodeSequence 	LinkerPrimerSequence	Sample_ID	Pen_ID	Trt	Pig_ID	Gender	Sample_type	Species	Inoc_ID	Diet	Inoc_ID_and_Diet	Average_Fecal_Score_Post_challenge	Necropsy_Colonization	Ileal_Histopath_attachment	Description
+ileal1			I1	1	U	949	G	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.43 	-	-	1
+ileal2			I2	2	U	541	G	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	2
+ileal3			I3	3	U	550	G	Ileal digesta	Porcine	Control	Basal	Control-Basal	 2.00 	-	-	3
+ileal4			I4	4	U	500	G	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.14 	-	-	4
+ileal5			I5	5	U	486	G	Ileal digesta	Porcine	Control	Basal	Control-Basal	 2.00 	-	-	5
+ileal6			I6	6	U	463	B	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	6
+ileal7			I7	7	U	467	B	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.14 	-	-	7
+ileal8			I8	8	U	442	B	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	8
+ileal9			I9	9	U	420	B	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.00 	-	-	9
+ileal10			I10	10	U	423	B	Ileal digesta	Porcine	Control	Basal	Control-Basal	 1.00 	-	-	10
+ileal11			I11	11	U1	950	G	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 3.43 	+	+	11
+ileal12			I12	12	U1	466	B	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.57 	+	-	12
+ileal13			I25	25	U1	483	G	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	-	+	13
+ileal14			I26	26	U1	425	B	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	-	-	14
+ileal15			I33	33	U1	947	G	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.14 	+	+	15
+ileal16			I40	40	U1	543	G	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 3.00 	+	-	16
+ileal17			I41	41	U1	462	B	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.71 	+	+	17
+ileal18			I46	46	U1	489	G	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.14 	-	+	18
+ileal19			I47	47	U1	444	B	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.86 	+	+	19
+ileal20			I56	56	U1	458	B	Ileal digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	+	-	20
+ileal21			I19	19	W	495	G	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 3.29 	-	-	21
+ileal22			I20	20	W	472	B	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.29 	+	+	22
+ileal23			I23	23	W	476	G	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.43 	+	-	23
+ileal24			I24	24	W	471	B	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.00 	+	-	24
+ileal25			I31	31	W	480	G	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.00 	-	-	25
+ileal26			I36	36	W	481	G	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.14 	-	-	26
+ileal27			I37	37	W	468	B	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.71 	+	+	27
+ileal28			I52	52	W	491	G	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.29 	+	-	28
+ileal29			I53	53	W	474	B	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.86 	+	-	29
+ileal30			I58	58	W	455	B	Ileal digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.71 	+	-	30
+ileal31			I15	15	X	450	B	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.71 	+	-	31
+ileal32			I16	16	X	487	G	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.86 	+	-	32
+ileal33			I29	29	X	547	G	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.43 	+	+	33
+ileal34			I30	30	X	465	B	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.00 	+	+	34
+ileal35			I32	32	X	478	G	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 3.00 	+	-	35
+ileal36			I38	38	X	482	G	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.71 	-	+	36
+ileal37			I39	39	X	473	B	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.14 	+	+	37
+ileal38			I50	50	X	494	G	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.29 	+	-	38
+ileal39			I51	51	X	454	B	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.14 	+	+	39
+ileal40			I60	60	X	447	B	Ileal digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.43 	+	-	40
+ileal41			I17	17	Y	492	G	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	+	-	41
+ileal42			I18	18	Y	441	B	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	-	+	42
+ileal43			I27	27	Y	549	G	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.57 	-	-	43
+ileal44			I28	28	Y	437	B	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.43 	+	-	44
+ileal45			I34	34	Y	944	G	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.86 	+	-	45
+ileal46			I44	44	Y	945	G	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 2.43 	+	+	46
+ileal47			I45	45	Y	421	B	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	+	+	47
+ileal48			I48	48	Y	475	G	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.00 	-	+	48
+ileal49			I49	49	Y	452	B	Ileal digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.57 	-	+	49
+ileal51			I13	13	Z	497	G	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.57 	+	-	51
+ileal52			I14	14	Z	453	B	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 3.14 	+	+	52
+ileal53			I21	21	Z	477	G	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.71 	+	+	53
+ileal54			I22	22	Z	460	B	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.00 	-	-	54
+ileal55			I35	35	Z	946	G	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.43 	-	-	55
+ileal56			I42	42	Z	498	G	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 3.29 	+	+	56
+ileal57			I43	43	Z	443	B	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.86 	+	+	57
+ileal58			I54	54	Z	544	G	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.57 	-	-	58
+ileal59			I55	55	Z	422	B	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.43 	+	+	59
+ileal60			I59	59	Z	436	B	Ileal digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.43 	+	+	60
+colonic61			C1	1	U	949	G	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.43 	-	-	61
+colonic62			C2	2	U	541	G	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	62
+colonic63			C3	3	U	550	G	Colonic digesta	Porcine	Control	Basal	Control-Basal	 2.00 	-	-	63
+colonic64			C4	4	U	500	G	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.14 	-	-	64
+colonic65			C5	5	U	486	G	Colonic digesta	Porcine	Control	Basal	Control-Basal	 2.00 	-	-	65
+colonic66			C6	6	U	463	B	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	66
+colonic67			C7	7	U	467	B	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.14 	-	-	67
+colonic68			C8	8	U	442	B	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.29 	-	-	68
+colonic69			C9	9	U	420	B	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.00 	-	-	69
+colonic70			C10	10	U	423	B	Colonic digesta	Porcine	Control	Basal	Control-Basal	 1.00 	-	-	70
+colonic71			C11	11	U1	950	G	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 3.43 	+	+	71
+colonic72			C12	12	U1	466	B	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.57 	+	-	72
+colonic73			C25	25	U1	483	G	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	-	+	73
+colonic74			C26	26	U1	425	B	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	-	-	74
+colonic75			C33	33	U1	947	G	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.14 	+	+	75
+colonic76			C40	40	U1	543	G	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 3.00 	+	-	76
+colonic77			C41	41	U1	462	B	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.71 	+	+	77
+colonic78			C46	46	U1	489	G	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.14 	-	+	78
+colonic79			C47	47	U1	444	B	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 2.86 	+	+	79
+colonic80			C56	56	U1	458	B	Colonic digesta	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal	 1.00 	+	-	80
+colonic81			C19	19	W	495	G	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 3.29 	-	-	81
+colonic84			C24	24	W	471	B	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.00 	+	-	84
+colonic85			C31	31	W	480	G	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.00 	-	-	85
+colonic86			C36	36	W	481	G	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.14 	-	-	86
+colonic87			C37	37	W	468	B	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.71 	+	+	87
+colonic88			C52	52	W	491	G	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.29 	+	-	88
+colonic89			C53	53	W	474	B	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 1.86 	+	-	89
+colonic90			C58	58	W	455	B	Colonic digesta	Porcine	F18 E. coli 	SF	F18 E. coli -SF	 2.71 	+	-	90
+colonic91			C15	15	X	450	B	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.71 	+	-	91
+colonic92			C16	16	X	487	G	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.86 	+	-	92
+colonic93			C29	29	X	547	G	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.43 	+	+	93
+colonic94			C30	30	X	465	B	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.00 	+	+	94
+colonic95			C32	32	X	478	G	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 3.00 	+	-	95
+colonic96			C38	38	X	482	G	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.71 	-	+	96
+colonic97			C39	39	X	473	B	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.14 	+	+	97
+colonic98			C50	50	X	494	G	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.29 	+	-	98
+colonic99			C51	51	X	454	B	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 1.14 	+	+	99
+colonic100			C60	60	X	447	B	Colonic digesta	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE	 2.43 	+	-	100
+colonic101			C17	17	Y	492	G	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	+	-	101
+colonic102			C18	18	Y	441	B	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	-	+	102
+colonic103			C27	27	Y	549	G	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.57 	-	-	103
+colonic104			C28	28	Y	437	B	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.43 	+	-	104
+colonic105			C34	34	Y	944	G	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.86 	+	-	105
+colonic106			C44	44	Y	945	G	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 2.43 	+	+	106
+colonic107			C45	45	Y	421	B	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.14 	+	+	107
+colonic108			C48	48	Y	475	G	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 3.00 	-	+	108
+colonic109			C49	49	Y	452	B	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 1.57 	-	+	109
+colonic110			C57	57	Y	448	B	Colonic digesta	Porcine	F18 E. coli 	IF	F18 E. coli -IF	 2.57 	+	-	110
+colonic111			C13	13	Z	497	G	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.57 	+	-	111
+colonic112			C14	14	Z	453	B	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 3.14 	+	+	112
+colonic113			C21	21	Z	477	G	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.71 	+	+	113
+colonic114			C22	22	Z	460	B	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.00 	-	-	114
+colonic115			C35	35	Z	946	G	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.43 	-	-	115
+colonic116			C42	42	Z	498	G	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 3.29 	+	+	116
+colonic117			C43	43	Z	443	B	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.86 	+	+	117
+colonic118			C54	54	Z	544	G	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.57 	-	-	118
+colonic119			C55	55	Z	422	B	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 2.43 	+	+	119
+colonic120			C59	59	Z	436	B	Colonic digesta	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE	 1.43 	+	+	120
+feces121			F1	1	U	949	G	Feces	Porcine	Control	Basal	Control-Basal		-	-	121
+feces122			F2	2	U	541	G	Feces	Porcine	Control	Basal	Control-Basal		-	-	122
+feces123			F3	3	U	550	G	Feces	Porcine	Control	Basal	Control-Basal		-	-	123
+feces124			F4	4	U	500	G	Feces	Porcine	Control	Basal	Control-Basal		-	-	124
+feces125			F6	6	U	463	B	Feces	Porcine	Control	Basal	Control-Basal		-	-	125
+feces127			F10	10	U	423	B	Feces	Porcine	Control	Basal	Control-Basal		-	-	127
+feces128			F11	11	U1	950	G	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	+	128
+feces129			F12	12	U1	466	B	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	-	129
+feces130			F33	33	U1	947	G	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	+	130
+feces131			F40	40	U1	543	G	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	-	131
+feces132			F41	41	U1	462	B	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	+	132
+feces133			F47	47	U1	444	B	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	+	133
+feces134			F56	56	U1	458	B	Feces	Porcine	F18 E. coli 	Basal	F18 E. coli -Basal		+	-	134
+feces135			F20	20	W	472	B	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	+	135
+feces136			F23	23	W	476	G	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	-	136
+feces137			F24	24	W	471	B	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	-	137
+feces138			F31	31	W	480	G	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		-	-	138
+feces139			F36	36	W	481	G	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		-	-	139
+feces140			F37	37	W	468	B	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	+	140
+feces141			F53	53	W	474	B	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	-	141
+feces142			F58	58	W	455	B	Feces	Porcine	F18 E. coli 	SF	F18 E. coli -SF		+	-	142
+feces143			F15	15	X	450	B	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	-	143
+feces144			F29	29	X	547	G	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	+	144
+feces145			F30	30	X	465	B	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	+	145
+feces146			F32	32	X	478	G	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	-	146
+feces147			F50	50	X	494	G	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	-	147
+feces148			F60	60	X	447	B	Feces	Porcine	F18 E. coli 	SFE	F18 E. coli -SFE		+	-	148
+feces150			F28	28	Y	437	B	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		+	-	150
+feces151			F34	34	Y	944	G	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		+	-	151
+feces152			F44	44	Y	945	G	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		+	+	152
+feces153			F45	45	Y	421	B	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		+	+	153
+feces154			F48	48	Y	475	G	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		-	+	154
+feces155			F57	57	Y	448	B	Feces	Porcine	F18 E. coli 	IF	F18 E. coli -IF		+	-	155
+feces156			F13	13	Z	497	G	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		+	-	156
+feces157			F22	22	Z	460	B	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		-	-	157
+feces158			F42	42	Z	498	G	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		+	+	158
+feces159			F54	54	Z	544	G	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		-	-	159
+feces160			F55	55	Z	422	B	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		+	+	160
+feces161			F59	59	Z	436	B	Feces	Porcine	F18 E. coli 	IFE	F18 E. coli -IFE		+	+	161
